@@ -18,6 +18,7 @@ I have successfully completed all the assigned tasks for my internship at Cipher
 
 ![Screenshot 2024-06-07 150444](https://github.com/uttambodara/CBTCIP/assets/129719033/287896aa-1923-47bd-814d-567cebb284fc)
 
+
 3. To-Do List Website:
 
 - Built an interactive to-do list application to help users manage their tasks efficiently.
@@ -34,3 +35,21 @@ I have successfully completed all the assigned tasks for my internship at Cipher
   
 ![Screenshot 2024-06-07 150427](https://github.com/uttambodara/CBTCIP/assets/129719033/aa3c354d-1d1d-4ec5-9016-cec392cadfd6)
 
+**All of my work is compiled in the CBTCIP.zip file, which contains the source code, documentation, and any other relevant materials for each project.**
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+My portfolioll link [Portfolio Pages](https://uttambodara.netlify.app/).
