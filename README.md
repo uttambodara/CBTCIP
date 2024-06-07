@@ -1,5 +1,6 @@
 #CBTCIP 
-#Real Cool Heading
+
+
 I have successfully completed all the assigned tasks for my internship at CipherByte Technologies, a reputable and supportive company. Below are the details of the projects I worked on:
 
 1. Weather Website:
