@@ -1,5 +1,4 @@
-#CBTCIP 
-
+#CBTCIP :sparkling_heart:
 
 I have successfully completed all the assigned tasks for my internship at CipherByte Technologies, a reputable and supportive company. Below are the details of the projects I worked on:
 
