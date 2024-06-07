@@ -1,6 +1,6 @@
 # CBTCIP :sparkling_heart:
 
-I have successfully completed all the assigned tasks for my internship at CipherByte Technologies, a reputable and supportive company. Below are the details of the projects I worked on:
+I have successfully completed all the assigned tasks for my internship at **CipherByte Technologies**, a reputable and supportive company. Below are the details of the projects I worked on:
 
 1. Weather Website:
 
@@ -39,3 +39,7 @@ ather updates.
 
 
 **All of my work is compiled in the *CBTCIP.zip file*, which contains the source code, documentation, and any other relevant materials for each project.**
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
