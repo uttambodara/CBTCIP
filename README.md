@@ -35,7 +35,11 @@ I have successfully completed all the assigned tasks for my internship at Cipher
   
 ![Screenshot 2024-06-07 150427](https://github.com/uttambodara/CBTCIP/assets/129719033/aa3c354d-1d1d-4ec5-9016-cec392cadfd6)
 
+
+
 **All of my work is compiled in the CBTCIP.zip file, which contains the source code, documentation, and any other relevant materials for each project.**
+
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -52,4 +56,5 @@ I have successfully completed all the assigned tasks for my internship at Cipher
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-My portfolioll link [Portfolio Pages](https://uttambodara.netlify.app/).
+My portfolioll link [Click ME](https://uttambodara.netlify.app/).
+
