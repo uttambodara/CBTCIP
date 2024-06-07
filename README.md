@@ -64,6 +64,6 @@ My Behance link [Click ME](https://www.behance.net/uttambodra).
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
