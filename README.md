@@ -41,4 +41,5 @@ ather updates.
 **All of my work is compiled in the *CBTCIP.zip file*, which contains the source code, documentation, and any other relevant materials for each project.**
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
