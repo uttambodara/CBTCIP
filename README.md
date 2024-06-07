@@ -1,44 +1,41 @@
-# vCard - Personal portfolio
+# CBTCIP :sparkling_heart:
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+I have successfully completed all the assigned tasks for my internship at CipherByte Technologies, a reputable and supportive company. Below are the details of the projects I worked on:
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+1. Weather Website:
 
-## Demo
++ Developed a responsive website that provides real-time weather updates.
+* Integrated APIs to fetch and display weather data for various locations.
+- Implemented user-friendly features such as search functionality, weather forecasts, and location-based we
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Screenshot 2024-06-07 145448](https://github.com/uttambodara/CBTCIP/assets/129719033/589be116-436a-414e-986e-9faf39df7712)
+ather updates.
 
-## Prerequisites
+2. Personal Portfolio:
 
-Before you begin, ensure you have met the following requirements:
++ Created a professional portfolio website to showcase my skills, projects, and experience.
+- Designed the layout and user interface to be clean and visually appealing.
+* Included sections such as an about me page, a projects gallery, a resume, and contact information.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+![Screenshot 2024-06-07 150444](https://github.com/uttambodara/CBTCIP/assets/129719033/11295bc4-4a1e-4097-8144-c7360611ce94)
 
-## Installing vCard
 
-To install **vCard**, follow these steps:
+3. To-Do List Website:
 
-Linux and macOS:
++ Built an interactive to-do list application to help users manage their tasks efficiently.
+* Added features like task creation, editing, deletion, and marking tasks as complete.
+- Ensured data persistence so users can retain their tasks across sessions using local storage or a backend database.
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+![Screenshot 2024-06-07 150408](https://github.com/uttambodara/CBTCIP/assets/129719033/55b3ec98-6b5a-403f-a09d-4e95ee230bff)
 
-Windows:
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+4. Restaurant Website:
 
-## Contact
++ Developed a comprehensive website for a restaurant, featuring menu items, reservations, and contact details.
+* Implemented an online reservation system for customers to book tables.
+- Designed the website to be visually appealing and easy to navigate, showcasing the restaurant's ambiance and offerings.
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+![Screenshot 2024-06-07 150427](https://github.com/uttambodara/CBTCIP/assets/129719033/fab6f7fe-1c8a-4f43-99ca-8f09109d7c72)
 
-## License
 
-MIT
+**All of my work is compiled in the *CBTCIP.zip file*, which contains the source code, documentation, and any other relevant materials for each project.**
