@@ -39,6 +39,11 @@ I have successfully completed all the assigned tasks for my internship at Cipher
 
 **All of my work is compiled in the CBTCIP.zip file, which contains the source code, documentation, and any other relevant materials for each project.**
 
+My Portfolioll link [Click ME](https://uttambodara.netlify.app/).
+
+My LinkedIn link [Click ME](http://www.linkedin.com/in/uttam-bodra-264882267).
+
+My Behance link [Click ME](https://www.behance.net/uttambodra).
 
 
 > [!NOTE]
@@ -56,15 +61,9 @@ I have successfully completed all the assigned tasks for my internship at Cipher
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-My Portfolioll link [Click ME](https://uttambodara.netlify.app/).
-
-My LinkedIn link [Click ME](http://www.linkedin.com/in/uttam-bodra-264882267).
-
-My Behance link [Click ME](https://www.behance.net/uttambodra).
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)][![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,figma&theme=light)](https://skillicons.dev)
 
 
 
