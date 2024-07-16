@@ -1,4 +1,12 @@
 # CBTCIP :sparkling_heart:
+<div align=center>
+  <h3><b>📍Repository Visitor Count</b></h3>
+</div>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/uttambodara/count.svg" />  
+</p>
+
 
 I have successfully completed all the assigned tasks for my internship at **CipherByte Technologies**, a reputable and supportive company. Below are the details of the projects I worked on:
 
